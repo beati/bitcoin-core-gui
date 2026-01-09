@@ -27,5 +27,3 @@ target/
 /guix-build-*
 
 /ci/scratch/
-
-.idea/
